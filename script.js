@@ -18,7 +18,7 @@ const productos = [
     {id: 8, categoria: 'alimentos', titulo: 'Harina de Trigo 1kg', precio: 800, enlace: 'https://d3340tyzmtlo4u.cloudfront.net/users/864/images/detailed/13/Favorita_Harina_de_Trigo_Enriquecida_Tipo_000,_1_kg.webp'},
     {id: 9, categoria: 'bebidas', titulo: 'Jugo de Naranja 1lt', precio: 1800, enlace: 'https://jumboargentina.vtexassets.com/arquivos/ids/770839/Ades-Soja-Jugo-De-Naranja-1-L-1-17842.jpg?v=638128606018400000'},
     {id: 10, categoria: 'alimentos', titulo: 'Leche Descremada 1lt', precio: 1200, enlace: 'https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3263432_f.jpg'},
-    {id: 11, categoria: 'bebidas', titulo: 'Cerveza Stella Artois 6 pack', precio: 4500, enlace: 'https://santaisabel.vtexassets.com/arquivos/ids/362730/Pack-6-un-Cerveza-Stella-Artois-Lager-48%C2%B0-354-cc.jpg?v=638490552811770000'},
+    {id: 11, categoria: 'bebidas', titulo: 'Cerveza Stella Artois 6 pack', precio: 4500, enlace: 'https://jumboargentina.vtexassets.com/arquivos/ids/611945/Cerveza-Rubia-Stella-Artois-6-Pack-473-Ml-Lata-1-770942.jpg'},
     {id: 12, categoria: 'alimentos', titulo: 'Atún en Lata', precio: 2600, enlace: 'https://carrefourar.vtexassets.com/arquivos/ids/381220/7790580138769_E01.jpg?v=638315050151870000'},
     {id: 13, categoria: 'bebidas', titulo: 'Vino Tinto Reserva 750ml', precio: 2800, enlace: 'https://walmartcr.vtexassets.com/arquivos/ids/508075/Vino-Riunite-Lambrusco-750ml-1-36479.jpg?v=638416007130170000'},
     {id: 14, categoria: 'alimentos', titulo: 'Azúcar Blanca 1kg', precio: 1000, enlace: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRDKhIYGG67X6cCZkzVUzlBVB3O8w-2YPCOJJvC66lg&s'},
