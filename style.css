@@ -26,12 +26,17 @@ nav {
     position: sticky;
     top: 0;
     display: flex;
+    justify-content: center;
     z-index: 10;
     height: 7rem;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     border-bottom: medium solid red;
     padding: .5rem;
+}
+
+.logo-and-search {
+    display: flex;
 }
 
 .main {
