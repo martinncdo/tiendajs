@@ -43,6 +43,8 @@ nav {
     position: relative;
     background-color: rgb(255, 255, 255);
     padding: 1rem;
+    width: 100%;
+    height: 100%;
 }
 
 .item-producto {
@@ -327,6 +329,12 @@ nav {
         grid-template-columns: 1fr;
     }
 
+    .main {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
     nav {
         display: flex;
         flex-direction: column;
@@ -351,16 +359,29 @@ nav {
     }
 
     .carrito-layout {
+        position: absolute;
         top: 0;
-        position: fixed;
-        z-index: 11;
-        height: 100vh;
-        padding: 1rem;
+        left: 0;
     }
 
     .carrito {
-        width: 95%;
-        top: 0;
-        margin: 0;
+        width: 100%;
+        height: 100%;
+        position: sticky;
+        top: 180.800px;
+        left: 0;
+    }
+
+    .btn-comprar {
+        margin-bottom: 3rem;
+    }
+
+    .agregar-carrito {
+        padding: .7rem;
+        font-size: 1rem;
+    }
+
+    .input-search {
+        font-size: 1rem;
     }
 }
